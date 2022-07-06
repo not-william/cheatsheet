@@ -1,2 +1,2 @@
 # cheatsheet
-I'm always using these CLI commands
+I'm always using these CLI commands.
